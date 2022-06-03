@@ -1,20 +1,22 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+     titleWeb: "Lời Tỏ Tình",
+    introTitle: 'Cục nợ của Đời A <3',
+    introDesc: `Em à, tình cảm a dành cho e k phải vì nông nổi hay cảm nắng đâu!
+                Vì từ đầu e đã k tốt vs a. E ác mà dữ lắm. Có thể do bùa chăng??
+                Đọc đến đây chắc đang chửi a rồi đúng ko 😄 
+                A hay đùa, hay trêu e vậy thôi chứ a biết e là 1 người con gái tốt,
+                giàu tình cảm, 1 con ❤ ấm áp, yêu thương a!,`,
+    btnIntro: 'AnhYêuEmNhiềuLắm🥰',
+    title: 'Còn e, e có yêu a ngay từ lần đầu chúng ta gặp nhau k 🥰',
+    desc: 'Hiện tại tình cảm em dành cho a thế nào? ',
+    btnYes: 'Yêu a rất nhiều 😘😘😘',
+    btnNo: 'Không yêu a đâu 😜',
+    question: 'Tại sao có rất nhiều người thích e tốt hơn a, mà e lại chọn a',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì cũng yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em rất nhiều nhiều 😘😘😘',
+    messDesc: 'Tối nay, gặp nhau nhé em yêu!❤',
+    btnAccept: 'Vâng ạ, người yêu của em <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
+
