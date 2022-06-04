@@ -1,10 +1,10 @@
 const CONFIG = {
      titleWeb: "Niềm Vui của Anh",
-    introTitle: 'Cục nợ của Đời A <3',
-    introDesc: `Em à, tình cảm a dành cho e k phải vì nông nổi hay cảm nắng đâu! Vì từ đầu e đã k tốt vs a chút nào rồi. E ác mà dữ lắm. Vậy là do bùa chăng?? 
-                Đọc đến đây chắc đang chửi a rồi đúng ko 😄 A hay đùa, hay trêu e vậy thôi chứ a biết e là 1 người con gái tốt, giàu tình cảm, 1 con ❤ ấm áp, yêu thương a!,`,
+    introTitle: 'Khúc Gỗ Đời Ta <3',
+    introDesc: `A yêu e! Yêu e k phải vì nông nổi hay cảm nắng đâu! Cũng k biết sao lại yêu e. Vì từ đầu e đã k tốt vs a rồi. E ác với dữ lắm 😄. Nhưng vẫn yêu. Hay là do bùa hả e?? 
+                Đọc đến đây chắc đang chửi a rồi đúng ko 😄 A hay đùa, hay trêu e vậy thôi chứ a biết e là 1 người con gái tình cảm, tốt bung nếu bỏ qua cái tính...thì 👍 😛,`,
     btnIntro: 'AnhYêuEmNhiềuLắm🥰',
-    title: 'Còn e, e có yêu a ngay từ lần đầu chúng ta gặp nhau k 🥰',
+    title: 'Còn e, e thích a từ đầu tiên à  😄, a cảm nhận rõ sự dụ dỗ ở đây. Nhưng mà a trót rồi. Tiếp tục tương lai cùng em thôi 🥰',
     desc: 'Hiện tại tình cảm em dành cho a thế nào? ',
     btnYes: 'Yêu a rất nhiều 😘😘😘',
     btnNo: 'Không yêu a đâu 😜',
